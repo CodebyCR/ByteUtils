@@ -2,7 +2,7 @@
 
 _A byte utils class to handle bytes with literals._
 
-- [x] smooth calcualtion between decimal and binary suffixes.
+- [x] smooth calculation between decimal and binary suffixes.
 - [x] fast readable and concise code.
 - [x] fitting to literal.
 - [x] compertibal with big integer types.
